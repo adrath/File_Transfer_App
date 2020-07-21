@@ -56,7 +56,9 @@ server port and data port must be between 1024-65535
 
 ## Demonstration
 Server
+
 <img src="./file_transfer_demo_ftserver.png">
 
 Client
+
 <img src="./file_transfer_demo_ftclient.png">
